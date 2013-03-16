@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SDownload' target in the 'SDownload' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
